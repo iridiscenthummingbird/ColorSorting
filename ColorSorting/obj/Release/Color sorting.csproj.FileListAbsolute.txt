@@ -1,0 +1,15 @@
+D:\Универ\Курсач\исключения\Color Sorting\ColorSorting\bin\Release\ColorSorting.exe.config
+D:\Универ\Курсач\исключения\Color Sorting\ColorSorting\bin\Release\ColorSorting.exe
+D:\Универ\Курсач\исключения\Color Sorting\ColorSorting\bin\Release\ColorSorting.pdb
+D:\Универ\Курсач\исключения\Color Sorting\ColorSorting\obj\Release\Color sorting.csprojAssemblyReference.cache
+D:\Универ\Курсач\исключения\Color Sorting\ColorSorting\obj\Release\ColorSorting.ChangeConstantColorForm.resources
+D:\Универ\Курсач\исключения\Color Sorting\ColorSorting\obj\Release\ColorSorting.ChangeLanguageForm.resources
+D:\Универ\Курсач\исключения\Color Sorting\ColorSorting\obj\Release\ColorSorting.FileExceptionForm.resources
+D:\Универ\Курсач\исключения\Color Sorting\ColorSorting\obj\Release\ColorSorting.Question.resources
+D:\Универ\Курсач\исключения\Color Sorting\ColorSorting\obj\Release\ColorSorting.MainForm.resources
+D:\Универ\Курсач\исключения\Color Sorting\ColorSorting\obj\Release\ColorSorting.Properties.Resources.resources
+D:\Универ\Курсач\исключения\Color Sorting\ColorSorting\obj\Release\ColorSorting.Resourses.eng.resources
+D:\Универ\Курсач\исключения\Color Sorting\ColorSorting\obj\Release\ColorSorting.Resourses.ukr.resources
+D:\Универ\Курсач\исключения\Color Sorting\ColorSorting\obj\Release\Color sorting.csproj.GenerateResource.cache
+D:\Универ\Курсач\исключения\Color Sorting\ColorSorting\obj\Release\ColorSorting.exe
+D:\Универ\Курсач\исключения\Color Sorting\ColorSorting\obj\Release\ColorSorting.pdb
